@@ -61,7 +61,7 @@ def add_test_statistics():
     
     print(f"\n🎉 {len(test_statistics)} statistiques de test ont été ajoutées dans le backend!")
     print("Vous pouvez maintenant les modifier depuis l'interface d'administration:")
-    print("http://127.0.0.1:8000/admin/api/statistic/")
+    print("https://aide-deploiement.vercel.app/admin/api/statistic/")
 
 if __name__ == '__main__':
     add_test_statistics() 

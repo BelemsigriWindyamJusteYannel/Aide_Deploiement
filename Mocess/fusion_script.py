@@ -98,7 +98,7 @@ def main():
     print("📋 Prochaines étapes:")
     print("1. Naviguez vers le dossier backend: cd backend")
     print("2. Lancez le serveur: python manage.py runserver")
-    print("3. Ouvrez votre navigateur: http://localhost:8000")
+    print("3. Ouvrez votre navigateur: https://aide-deploiement.vercel.app")
     print("\n🔧 Pour la production:")
     print("- Configurez votre serveur web (Nginx/Apache)")
     print("- Utilisez Gunicorn: gunicorn mocess_backend.wsgi")

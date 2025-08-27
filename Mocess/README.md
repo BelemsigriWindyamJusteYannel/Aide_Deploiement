@@ -82,8 +82,8 @@ SiteMocess/
    python manage.py runserver
    ```
 
-Le backend sera accessible sur `http://localhost:8000`
-L'interface d'administration sera accessible sur `http://localhost:8000/admin`
+Le backend sera accessible sur `https://aide-deploiement.vercel.app`
+L'interface d'administration sera accessible sur `https://aide-deploiement.vercel.app/admin`
 
 ### Frontend React
 
@@ -185,7 +185,7 @@ DATABASES = {
 
 ### Ajouter un nouveau projet
 
-1. Se connecter à l'admin Django (`http://localhost:8000/admin`)
+1. Se connecter à l'admin Django (`https://aide-deploiement.vercel.app/admin`)
 2. Aller dans "Projets"
 3. Cliquer sur "Ajouter un projet"
 4. Remplir les informations :

@@ -12,7 +12,7 @@ Le serveur Django est maintenant lancé sur : **http://localhost:8000**
 ### 2. Pages à Tester
 
 #### **Page d'Accueil**
-- URL : `http://localhost:8000/`
+- URL : `https://aide-deploiement.vercel.app/`
 - Test : Vérifier que la page d'accueil s'affiche correctement
 - Éléments à vérifier :
   - Logo MOCESS
@@ -21,18 +21,18 @@ Le serveur Django est maintenant lancé sur : **http://localhost:8000**
   - Design et couleurs
 
 #### **Pages Principales**
-- **Centre** : `http://localhost:8000/centre`
-- **Projets** : `http://localhost:8000/projets`
-- **Événements** : `http://localhost:8000/evenements`
-- **Publications** : `http://localhost:8000/publications`
-- **Partenaires** : `http://localhost:8000/partenaires`
-- **Actualités** : `http://localhost:8000/actualites`
-- **Contact** : `http://localhost:8000/contact`
-- **Ressources** : `http://localhost:8000/ressources`
+- **Centre** : `https://aide-deploiement.vercel.app/centre`
+- **Projets** : `https://aide-deploiement.vercel.app/projets`
+- **Événements** : `https://aide-deploiement.vercel.app/evenements`
+- **Publications** : `https://aide-deploiement.vercel.app/publications`
+- **Partenaires** : `https://aide-deploiement.vercel.app/partenaires`
+- **Actualités** : `https://aide-deploiement.vercel.app/actualites`
+- **Contact** : `https://aide-deploiement.vercel.app/contact`
+- **Ressources** : `https://aide-deploiement.vercel.app/ressources`
 
 #### **API Backend**
-- **Admin Django** : `http://localhost:8000/admin/`
-- **API REST** : `http://localhost:8000/api/`
+- **Admin Django** : `https://aide-deploiement.vercel.app/admin/`
+- **API REST** : `https://aide-deploiement.vercel.app/api/`
 
 ## 📱 Test de Responsivité
 
@@ -90,7 +90,7 @@ backend/
 
 Après la fusion, vous devriez voir :
 
-1. **Site web complet** accessible sur `http://localhost:8000`
+1. **Site web complet** accessible sur `https://aide-deploiement.vercel.app`
 2. **Design responsive** qui s'adapte à tous les écrans
 3. **Navigation fluide** entre toutes les pages
 4. **API fonctionnelle** accessible sur `/api/`

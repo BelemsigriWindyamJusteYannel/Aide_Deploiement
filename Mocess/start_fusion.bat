@@ -95,7 +95,7 @@ echo ================================================
 echo 📋 Prochaines étapes:
 echo 1. Le serveur est prêt à être lancé
 echo 2. Lancez: python manage.py runserver
-echo 3. Ouvrez votre navigateur: http://localhost:8000
+echo 3. Ouvrez votre navigateur: https://aide-deploiement.vercel.app
 echo.
 echo 🔧 Pour la production:
 echo - Configurez votre serveur web (Nginx/Apache)

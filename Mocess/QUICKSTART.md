@@ -54,9 +54,9 @@ npm run dev
 ## 🌐 Accès aux applications
 
 - **Frontend React**: http://localhost:5173
-- **Backend Django**: http://localhost:8000
-- **Admin Django**: http://localhost:8000/admin
-- **API REST**: http://localhost:8000/api/
+- **Backend Django**: https://aide-deploiement.vercel.app
+- **Admin Django**: https://aide-deploiement.vercel.app/admin
+- **API REST**: https://aide-deploiement.vercel.app/api/
 
 ## 📊 Données d'exemple
 
@@ -72,7 +72,7 @@ Le système est pré-configuré avec des données d'exemple :
 ## 🔧 Premiers pas
 
 ### 1. Se connecter à l'admin Django
-- Aller sur http://localhost:8000/admin
+- Aller sur https://aide-deploiement.vercel.app/admin
 - Utiliser les identifiants créés lors de l'installation
 
 ### 2. Tester les formulaires
