@@ -1,0 +1,1 @@
+web: gunicorn mocess_backend.wsgi --log-file -
