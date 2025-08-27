@@ -145,8 +145,6 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:8000",
     "http://127.0.0.1:8000",
     "https://aide-deploiement.vercel.app",
-    "https://aide-deploiement-4h8fm85jx.vercel.app",
-    "https://aide-deploiement.vercel.app/api",
 ]
 
 CORS_ALLOWED_ORIGIN_REGEXES = [
