@@ -1,0 +1,17 @@
+INFO 2025-08-06 01:33:00,665 autoreload 20180 9536 Watching for file changes with StatReloader
+INFO 2025-08-06 01:33:24,627 basehttp 20180 16748 "GET /admin/ HTTP/1.1" 200 18359
+INFO 2025-08-06 01:33:25,870 basehttp 20180 16748 "GET /admin/ HTTP/1.1" 200 18359
+INFO 2025-08-06 01:33:29,019 basehttp 20180 16748 "POST /admin/logout/ HTTP/1.1" 200 3624
+INFO 2025-08-06 01:33:36,442 basehttp 20180 16748 "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-08-06 01:33:36,465 basehttp 20180 16748 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4227
+INFO 2025-08-06 01:33:40,776 basehttp 20180 16748 "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-08-06 01:33:40,801 basehttp 20180 16748 "GET /admin/ HTTP/1.1" 200 18359
+INFO 2025-08-06 01:33:48,381 basehttp 20180 16748 "GET / HTTP/1.1" 200 4874
+INFO 2025-08-06 01:33:54,069 autoreload 20180 9536 C:\projet\SiteMocess\backend\api\admin.py changed, reloading.
+INFO 2025-08-06 01:33:55,151 autoreload 832 14472 Watching for file changes with StatReloader
+INFO 2025-08-06 01:35:55,669 autoreload 832 14472 C:\projet\SiteMocess\backend\mocess_backend\settings.py changed, reloading.
+INFO 2025-08-06 01:35:56,447 autoreload 21196 12284 Watching for file changes with StatReloader
+INFO 2025-08-06 01:37:32,943 autoreload 21196 12284 C:\projet\SiteMocess\backend\api\admin.py changed, reloading.
+INFO 2025-08-06 01:37:34,501 autoreload 21236 16772 Watching for file changes with StatReloader
+INFO 2025-08-06 01:37:50,967 autoreload 12352 9104 Watching for file changes with StatReloader
+INFO 2025-08-06 01:38:59,730 autoreload 12352 9104 C:\projet\SiteMocess\backend\mocess_backend\settings.py changed, reloading.
