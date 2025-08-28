@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-f7nthppa=vr9d#wwfq+b3^1z1m&1iyf$k=w$@*nn4a-=1j=&os
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "*"
+    ".vercel.app"
 ]
 
 
@@ -136,7 +136,6 @@ STATICFILES_DIRS = [
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-CORS_ALLOW_ALL_ORIGINS = True
 # CORS settings
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
@@ -149,7 +148,7 @@ CORS_ALLOWED_ORIGINS = [
 ]
 
 CORS_ALLOWED_ORIGIN_REGEXES = [
-    r"^https:\/\/.*\.vercel\.app$",
+    r"^https://.*\.vercel\.app$",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
